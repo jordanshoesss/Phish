@@ -36,7 +36,7 @@
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/MaxPhisher```
+ - ```git clone https://github.com/KasRoudra2/MaxPhisher```
 
 ##### Enter the directory
  - ```cd MaxPhisher```
